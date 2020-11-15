@@ -22,5 +22,5 @@
 # YOUTUBE - Video
 [![YOUTUBE-LINK](https://img.youtube.com/vi/rQWC4L57XqM/0.jpg)](https://www.youtube.com/watch?v=rQWC4L57XqM)
 
-# REPL- Link
-https://jyothi-5f8.thumpatijyothi.repl.co
+# Heroku-Flask- Link
+https://gamebot-bmi1.herokuapp.com/

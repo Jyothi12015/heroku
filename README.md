@@ -20,7 +20,7 @@
   
   
 # YOUTUBE - Video
-[![YOUTUBE-LINK](https://img.youtube.com/vi/rQWC4L57XqM/0.jpg)](https://www.youtube.com/watch?v=rQWC4L57XqM)
+[![YOUTUBE-LINK](https://img.youtube.com/vi/Fiqpv8OSbaE/0.jpg)](https://www.youtube.com/watch?v=Fiqpv8OSbaE)
 
 # Heroku-Flask- Link
 https://gamebot-bmi1.herokuapp.com/

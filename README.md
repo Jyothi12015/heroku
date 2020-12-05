@@ -3,7 +3,7 @@
 # Team-Name:PinkTesla
 1.18PA1A05F8-Thumpati Jyothi
 2.18PA1A05H2-Yagnam Jaya Surekha
-3.18pa1a05d1-punuru sowmya
+3.18pa1a05d1-Punuru Sowmya
 
 # Objective 
   Main objective of the multi_bot is to play multiple role like finding BMI , Playing Game.  
